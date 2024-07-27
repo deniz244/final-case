@@ -4,11 +4,14 @@ Günümüzde finansal işlemler için ATM'ler hayati bir rol oynamaktadır. Anca
 
 React + Mapbox API frontend - Flask + ML Model (Python)
 
+1. Harita Başlangıç Konumu
 
 <img width="1793" alt="Ekran Resmi-1" src="https://github.com/user-attachments/assets/6b0cb9c7-8adf-4d1b-99c1-1dda78eb3c57">
 
+2. Kullanıcı Konumundan Önerilen ATM’ye Rota Çizilmesi
 
 <img width="1791" alt="Ekran Resmi-2" src="https://github.com/user-attachments/assets/000cf2b4-59e9-4ae5-8884-22b4ea737fa4">
 
+3. Önerilen ATM'ler ile Harita Uzaktan Görünümü
 
 <img width="1468" alt="Ekran Resmi-3" src="https://github.com/user-attachments/assets/d77ee915-b19a-42ee-9273-8902b59e4022">
